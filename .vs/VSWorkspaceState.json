@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\core\\server",
-    "\\core\\server\\config"
+    "\\content\\themes",
+    "\\content\\themes\\casper"
   ],
   "SelectedNode": "\\web.config",
   "PreviewInSolutionExplorer": false
